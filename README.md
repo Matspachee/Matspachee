@@ -35,7 +35,7 @@
 
 ## 📌 Proyectos destacados
 Estos son algunos de mis trabajos recientes:
-- 📦 **Aplicación de Gestión de Inventario y Clientes** – Aplicación fullstack desarrollada con Laravel para automatizar el control de inventario en una empresa del sector automotriz.
+- 📦 **Aplicación de Gestión de Inventario y Clientes** – Aplicación fullstack desarrollada con Laravel para automatizar el control de inventario para VELOCIMETROS GUADALAJARA.
 - 📊 **Sitio oficial CIBEM 2025** – Mantenimiento, actualización y mejora de rendimiento del sitio web del Congreso Iberoamericano de Educación Matemática usando WordPress.
 - 💡 **Proyectos Embebidos** – Sistemas en tiempo real con microcontroladores STM32 que integran sensores y visualización de datos (Keil + C).
 
@@ -44,7 +44,7 @@ Estos son algunos de mis trabajos recientes:
 ## 💬 Contactame
 
 - 📧 Correo: [maximiliano.hmora@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/matspache-dev]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/matspache-dev/))
+- 🔗 LinkedIn: [linkedin.com/in/matspache-dev/]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/matspache-dev/))
 
 ---
 
