@@ -41,12 +41,11 @@ Estos son algunos de mis trabajos recientes:
 
 ---
 
-## 💬 Conectemos
-Estoy abierto a colaborar en proyectos de desarrollo web, herramientas educativas o ideas creativas con impacto.
+## 💬 Contactame
 
 - 📧 Correo: [maximiliano.hmora@gmail.com]
 - 🔗 LinkedIn: [linkedin.com/in/matspache-dev]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/matspache-dev/))
 
 ---
 
-¡Gracias por visitar mi perfil! 🌟
+¡Gracias por visitar mi perfil!
